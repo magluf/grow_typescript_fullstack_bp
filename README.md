@@ -103,16 +103,6 @@ Explain here
 ```
 Explain here
 ```
-
-### Good practices
-**Are you familiar with SOLID principles? Do you use any of them?**
-```
-Explain here
-```
-**Are you used to include any design pattern in you code? Wich one ?** 
-```
-Explain here
-```
 ### Testing
 **Have you ever wrote unit or integration tests for your frontend**
 ```
